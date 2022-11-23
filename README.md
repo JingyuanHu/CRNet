@@ -20,11 +20,11 @@ python train.py
 ```
 
 ## Citation
-@inproceedings{zhou2019objects,
-  title={Objects as Points},
-  author={Zhou, Xingyi and Wang, Dequan and Kr{\"a}henb{\"u}hl, Philipp},
-  booktitle={arXiv preprint arXiv:1904.07850},
-  year={2019}
-}
+    @inproceedings{zhou2019objects,
+        title={Objects as Points},
+        author={Zhou, Xingyi and Wang, Dequan and Kr{\"a}henb{\"u}hl, Philipp},
+        booktitle={arXiv preprint arXiv:1904.07850},
+        year={2019}
+    }
 
 
