@@ -10,7 +10,6 @@ Single-shot Global and Local Context Refinement Neural Network for Head Detectio
 ### Data Preparation
 
 * **Brainwash**: The dataset is in VOC format. Please follow the instructions in [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn#beyond-the-demo-installation-for-training-and-testing-models) to prepare  datasets. Actually, you can refer to any others. After downloading the data, create softlinks in the folder data.
-* **HollywoodHeads**:  Same as Brainwash. 
 
 ## Train and Test
 We have provided train&test code for CRNet. Just run:
